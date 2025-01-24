@@ -74,7 +74,9 @@ run: redis: (pid 34435) 162s; run: log: (pid 34460) 161s
 This means GitLab is up and running. Now, you should be able to access it through your browser by visiting `http://localhost` or `http://127.0.0.1` (if you're configured in lab, otherwise use your configuration parameters you set).
 
 This is what you should see on port 80:
+
 ![2](https://github.com/user-attachments/assets/aa1ce7cb-8ff7-4b78-96fd-5114050b1cbe)
+
 
 If you still can’t access it, make sure that any firewall rules aren’t blocking the ports GitLab uses (like port 80 or 443), or check if the server is properly configured to allow web traffic on those ports.
 
@@ -106,6 +108,7 @@ exit
 ```
 
 **You can also find your password locally by visiting the initial configuration file at `/etc/gitlab/initial_root_password`:**
+
 ![1](https://github.com/user-attachments/assets/bf764ff2-f8b6-40b7-8e7a-6ccb4ac69879)
 
 4. **Create Additional Users**
