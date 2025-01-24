@@ -1,6 +1,7 @@
 # GitLab Instance Setup Guide
 
 This repository offers a comprehensive guide designed for system administrators and beginners alike. It covers everything you need to know to install, configure, and manage a GitLab instance. Whether you're setting up GitLab for personal use or for team collaboration, this guide will walk you through the process step-by-step, ensuring you have a smooth experience from start to finish.
+
 ---
 
 ## 📋 Table of Contents
@@ -9,9 +10,10 @@ This repository offers a comprehensive guide designed for system administrators 
 2. [Installation](#installation)
 3. [Configuration](#configuration)
 4. [Basic Usage](#basic-usage)
-5. [Backup and Recovery](#backup-and-recovery)
-6. [Upgrade](#upgrade-gitlab)
-7. [Troubleshooting](#troubleshooting)
+5. [Security](#security)
+6. [Backup and Recovery](#backup-and-recovery)
+7. [Upgrade](#upgrade-gitlab)
+8. [Troubleshooting](#troubleshooting)
 
 ---
 
@@ -59,6 +61,17 @@ Refer to [USAGE_GUIDE.md](USAGE_GUIDE.md) for a beginner-friendly tutorial.
 
 ---
 
+## 🔒 Security 
+
+Protecting your GitLab instance is critical to safeguarding your projects and data. This guide includes: 
+* Enabling HTTPS for secure communication.
+* Configuring access controls and user roles.
+* Setting up two-factor authentication (2FA).
+* Monitoring and logging activities to detect potential threats. 
+
+For more detailed instructions, refer to [SECURITY.md](SECURITY.md).
+
+---
 ## 🔄 Backup and Recovery
 
 To prevent data loss, learn how to:
