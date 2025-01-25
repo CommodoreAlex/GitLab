@@ -10,10 +10,10 @@ This repository offers a comprehensive guide designed for system administrators 
 2. [Installation](#installation)
 3. [Configuration](#configuration)
 4. [Basic Usage](#basic-usage)
-5. [Security](#security)
-6. [Backup and Recovery](#backup-and-recovery)
-7. [Upgrade](#upgrade-gitlab)
-8. [Troubleshooting](#troubleshooting)
+5. [Backup and Recovery](#backup-and-recovery)
+6. [Upgrade](#upgrade-gitlab)
+7. [Troubleshooting](#troubleshooting)
+8. [Security](#security)
 
 ---
 
@@ -61,17 +61,6 @@ Refer to [USAGE_GUIDE.md](USAGE_GUIDE.md) for a beginner-friendly tutorial.
 
 ---
 
-## 🔒 Security 
-
-Protecting your GitLab instance is critical to safeguarding your projects and data. This guide includes: 
-* Enabling HTTPS for secure communication.
-* Configuring access controls and user roles.
-* Setting up two-factor authentication (2FA).
-* Monitoring and logging activities to detect potential threats. 
-
-For more detailed instructions, refer to [SECURITY.md](SECURITY.md).
-
----
 ## 🔄 Backup and Recovery
 
 To prevent data loss, learn how to:
@@ -93,9 +82,22 @@ Learn how to upgrade your GitLab instance:
 For detailed instructions, refer to [UPGRADE.md](UPGRADE.md). 
 
 ---
+
 ## 🛑 Troubleshooting
 
 Encountered an issue? Refer to [TROUBLESHOOTING.md](TROUBLESHOOTING.md) for solutions to common problems.
+
+---
+
+## 🔒 Security 
+
+Protecting your GitLab instance is critical to safeguarding your projects and data. This guide includes: 
+* Enabling HTTPS for secure communication.
+* Configuring access controls and user roles.
+* Setting up two-factor authentication (2FA).
+* Monitoring and logging activities to detect potential threats. 
+
+For more detailed instructions, refer to [SECURITY.md](SECURITY.md).
 
 ---
 
