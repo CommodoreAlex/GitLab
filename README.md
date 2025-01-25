@@ -11,7 +11,7 @@ This repository offers a comprehensive guide designed for system administrators 
 3. [Configuration](#configuration)
 4. [Basic Usage](#basic-usage)
 5. [Backup and Recovery](#backup-and-recovery)
-6. [Upgrade](#upgrade-gitlab)
+6. [Upgrade GitLab](#upgrade-gitlab)
 7. [Troubleshooting](#troubleshooting)
 8. [Security](#security)
 
