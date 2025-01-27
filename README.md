@@ -7,13 +7,13 @@ This repository offers a comprehensive guide designed for system administrators 
 ## 📋 Table of Contents
 
 1. [Overview](#-overview)
-2. [Installation](#-installation.md)
-3. [Configuration](#-configuration)
-4. [Basic Usage](#-basic-usage)
-5. [Backup and Recovery](#-backup-and-recovery)
-6. [Upgrade GitLab](#-upgrade-gitlab)
-7. [Troubleshooting](#-troubleshooting)
-8. [Security](#-security)
+2. [Installation](installation.md)
+3. [Configuration](configuration.md)
+4. [Basic Usage](usage-guide.md)
+5. [Backup and Recovery](backup-and-recovery.md)
+6. [Upgrade GitLab](upgrade-guide.md)
+7. [Troubleshooting](troubleshooting.md)
+8. [Security](security.md)
 
 ---
 
