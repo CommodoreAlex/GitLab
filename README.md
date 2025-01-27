@@ -7,7 +7,7 @@ This repository offers a comprehensive guide designed for system administrators 
 ## 📋 Table of Contents
 
 1. [Overview](#-overview)
-2. [Installation](#-installation)
+2. [Installation](#installation.md)
 3. [Configuration](#-configuration)
 4. [Basic Usage](#-basic-usage)
 5. [Backup and Recovery](#-backup-and-recovery)
