@@ -33,7 +33,7 @@ Follow the step-by-step instructions to install GitLab:
 2. From source.
 3. Using the Omnibus package.
 
-Detailed installation steps are available in [INSTALLATION.md](INSTALLATION.md).
+Detailed installation steps are available in [INSTALLATION.md](installation.md).
 
 ---
 
@@ -45,7 +45,7 @@ Once GitLab is installed, configure it to meet your needs:
 - Configure external URLs and HTTPS.
 - Add runners for CI/CD.
 
-Check out [CONFIGURATION.md](CONFIGURATION.md) for more information.
+Check out [CONFIGURATION.md](configuration.md) for more information.
 
 ---
 
@@ -57,7 +57,7 @@ Learn the basics of using GitLab:
 - Use Git commands to interact with GitLab.
 - Add team members and manage permissions.
 
-Refer to [USAGE_GUIDE.md](USAGE_GUIDE.md) for a beginner-friendly tutorial.
+Refer to [USAGE_GUIDE.md](usage-guide.md) for a beginner-friendly tutorial.
 
 ---
 
@@ -68,7 +68,7 @@ To prevent data loss, learn how to:
 - Back up your GitLab instance.
 - Restore from a backup.
 
-Details can be found in [BACKUP_AND_RECOVERY.md](BACKUP_AND_RECOVERY.md).
+Details can be found in [BACKUP_AND_RECOVERY.md](backup-and-recovery.md).
 
 ---
 
@@ -79,13 +79,13 @@ Learn how to upgrade your GitLab instance:
 * Reconfigure GitLab to apply changes. 
 * Verify the upgrade and ensure all services are running. 
 
-For detailed instructions, refer to [UPGRADE.md](UPGRADE.md). 
+For detailed instructions, refer to [UPGRADE.md](upgrade-guide.md). 
 
 ---
 
 ## Troubleshooting
 
-Encountered an issue? Refer to [TROUBLESHOOTING.md](TROUBLESHOOTING.md) for solutions to common problems.
+Encountered an issue? Refer to [TROUBLESHOOTING.md](troubleshooting.md) for solutions to common problems.
 
 ---
 
@@ -97,7 +97,7 @@ Protecting your GitLab instance is critical to safeguarding your projects and da
 * Setting up two-factor authentication (2FA).
 * Monitoring and logging activities to detect potential threats. 
 
-For more detailed instructions, refer to [SECURITY.md](SECURITY.md).
+For more detailed instructions, refer to [SECURITY.md](security.md).
 
 ---
 
