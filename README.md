@@ -4,7 +4,7 @@ This repository offers a comprehensive guide designed for system administrators 
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
 1. [Overview](#-overview)
 2. [Installation](installation.md)
@@ -17,7 +17,7 @@ This repository offers a comprehensive guide designed for system administrators 
 
 ---
 
-## 🌟 Overview
+## Overview
 
 **What is GitLab?**
 
@@ -25,7 +25,7 @@ GitLab is an open-source DevOps platform that helps developers, project managers
 
 ---
 
-## 🚀 Installation
+## Installation
 
 Follow the step-by-step instructions to install GitLab:
 
@@ -37,7 +37,7 @@ Detailed installation steps are available in [INSTALLATION.md](INSTALLATION.md).
 
 ---
 
-## 🛠 Configuration
+## Configuration
 
 Once GitLab is installed, configure it to meet your needs:
 
@@ -49,7 +49,7 @@ Check out [CONFIGURATION.md](CONFIGURATION.md) for more information.
 
 ---
 
-## 📚 Basic Usage
+## Basic Usage
 
 Learn the basics of using GitLab:
 
@@ -61,7 +61,7 @@ Refer to [USAGE_GUIDE.md](USAGE_GUIDE.md) for a beginner-friendly tutorial.
 
 ---
 
-## 🔄 Backup and Recovery
+## Backup and Recovery
 
 To prevent data loss, learn how to:
 
@@ -72,7 +72,7 @@ Details can be found in [BACKUP_AND_RECOVERY.md](BACKUP_AND_RECOVERY.md).
 
 ---
 
-## ⬆️ Upgrade GitLab 
+## Upgrade GitLab 
 
 Learn how to upgrade your GitLab instance:
 * Update your GitLab installation based on your installation method.
@@ -83,13 +83,13 @@ For detailed instructions, refer to [UPGRADE.md](UPGRADE.md).
 
 ---
 
-## 🛑 Troubleshooting
+## Troubleshooting
 
 Encountered an issue? Refer to [TROUBLESHOOTING.md](TROUBLESHOOTING.md) for solutions to common problems.
 
 ---
 
-## 🔒 Security 
+## Security 
 
 Protecting your GitLab instance is critical to safeguarding your projects and data. This guide includes: 
 * Enabling HTTPS for secure communication.
